@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1623de50e6ef6c2448fc7ecb436d3942, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  clickMinForce: 50
+  clickMaxForce: 200
+  spawnMinSize: 0.2
+  spawnMaxSize: 1
+  infinitySpawnOnMouseDown: 0
+  objectToSpawn: {fileID: 1521361854088878, guid: 5aea8d53e2ad956439741a3da968fbfe,
+    type: 2}
